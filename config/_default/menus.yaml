@@ -1,0 +1,22 @@
+leftnav:
+- identifier: 4277c8bc-1b0c-4a97-1a3a-8c41530153dd
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: ef94033c-deaf-5cbb-3b08-46ac614dd617
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 3f0075a7-4b14-325c-8b4e-d2a5fc6d98e6
+  name: Readings and Films
+  pageRef: /pages/readings-and-films/
+  weight: 30
+- identifier: 35acf6f0-05b5-e15b-826d-7a718c0d0458
+  name: Readings and Films Guides
+  pageRef: /pages/readings-and-films/readings-and-films-guides
+  parent: 3f0075a7-4b14-325c-8b4e-d2a5fc6d98e6
+  weight: 40
+- identifier: 3a36951b-976d-9d09-0177-1555b2d317ac
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 50
